@@ -1,0 +1,6 @@
+C:\Users\Xiao\source\repos\serialporttest\serialporttest\bin\Debug\serialporttest.exe.config
+C:\Users\Xiao\source\repos\serialporttest\serialporttest\bin\Debug\serialporttest.exe
+C:\Users\Xiao\source\repos\serialporttest\serialporttest\bin\Debug\serialporttest.pdb
+C:\Users\Xiao\source\repos\serialporttest\serialporttest\obj\Debug\serialporttest.csprojAssemblyReference.cache
+C:\Users\Xiao\source\repos\serialporttest\serialporttest\obj\Debug\serialporttest.exe
+C:\Users\Xiao\source\repos\serialporttest\serialporttest\obj\Debug\serialporttest.pdb
